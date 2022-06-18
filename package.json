@@ -1,0 +1,10 @@
+{
+  "name": "comrade",
+  "version": "1.0.0",
+  "description": "Param filter generator for data.",
+  "main": "dist/index.js",
+  "repository": "https://github.com/AyresMonteiro/comrade",
+  "author": "Ayres Monteiro",
+  "license": "MIT",
+  "private": false
+}
