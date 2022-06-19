@@ -1,5 +1,5 @@
 {
-  "name": "comrade",
+  "name": "@comrade/comrade",
   "version": "1.0.0",
   "description": "Param filter generator for data.",
   "main": "dist/index.js",
@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
+    "build": "tsc",
     "test": "jest"
   },
   "devDependencies": {
